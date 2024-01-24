@@ -14,7 +14,7 @@ This is a simple Java program that interacts with a public RESTful API. The prog
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/restful-api-client-java.git
+    git clone https://github.com/Didi779/restful-api-client-java.git
     ```
 
 2. Navigate to the project directory.
